@@ -2355,6 +2355,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Wessel's Soltuion(Easy)](https://github.com/WKosterman/google-homepage)
 * [Hritik Agarwal's Solution](https://github.com/hritik-agarwal/google-homepage) - [View in Browser](https://hritik-agarwal.github.io/google-homepage)
 * [UpstairsBobcat's Soltuion(Easy)](https://github.com/UpstairsBobcat/google-homepage) - [View in Browser](https://upstairsbobcat.github.io/google-homepage/)
+* [Blake's Solution(Easy)](https://github.com/bla79hoo/google-homepage) - [View in Browser](https://bla79hoo.github.io/google-homepage/)
 </details>
 
 
